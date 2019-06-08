@@ -1,8 +1,8 @@
 # hello-world
 
-### Hi there! 👋
+### Hi there! I'm Josh 👋
 
-So, a little bit about me. I'm Josh. Sometimes people at work call me *"Juswa"*, which is how you would pronounce my name if you have a really strong Filipino accent.
+So, a little bit about me. I'm Joshua, but you can call me **Josh**. Sometimes people also call me *"Juswa"*, which is how you would pronounce my name if you have a really strong Filipino accent.
 
 <p align="center">
   <img src="https://media1.tenor.com/images/58077a5826ebeb0dfca37cb643652b7f/tenor.gif?itemid=12808570" width="300px">
